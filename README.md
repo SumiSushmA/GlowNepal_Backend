@@ -38,11 +38,11 @@ GlowNepal is a web-based beauty and salon appointment booking system that bridge
 
 **Technology Stack**
 
-Frontend: React.js
+1. Frontend: React.js
 
-Backend: Node.js (Express)
+2. Backend: Node.js (Express)
 
-Database: MongoDB
+3. Database: MongoDB
 
 
 
@@ -61,11 +61,11 @@ Database: MongoDB
 
 **Future Enhancements**
 
-Advanced analytics for stylists and admins.
+1. Advanced analytics for stylists and admins.
 
-Multi-language support for global accessibility.
+2. Multi-language support for global accessibility.
 
-Enhanced security features.
+3. Enhanced security features.
 
 
 **Conclusion**
